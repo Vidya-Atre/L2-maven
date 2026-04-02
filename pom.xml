@@ -8,5 +8,6 @@
     <groupId>com.example</groupId>
     <artifactId>L2-maven</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>war</packaging>
 
 </project>
